@@ -1,0 +1,25 @@
+.App {
+	text-align: center;
+	padding: 30px;
+	background-color: cornsilk;
+	/* background-image: "https://freefrontend.com/assets/img/css-animated-backgrounds/Animated-Ripples-Background-HTML-CSS.mp4"; */
+}
+.app__form {
+	padding: 20px;
+	position: fixed;
+	bottom: 0;
+	z-index: 100;
+	background-color: #e9e9eb;
+	width: 90%;
+	margin: 20px;
+}
+.app__formControl {
+	display: flex !important;
+	flex-direction: row !important;
+}
+.app_input {
+	flex: 1;
+}
+.app_iconButton {
+	flex: 0;
+}
