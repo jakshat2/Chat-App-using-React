@@ -1,10 +1,12 @@
-## Facebook Messenger Clone Based on React  <img src="https://image.flaticon.com/icons/png/128/889/889101.png">
-
-A messenger clone, a simple chat application with a global chat room. Users will be prompted to enter their name and all associated messages from the user will be linked to the user.
+ ## Messenger App Based on React :incoming_envelope: :mailbox:
+<!-- <img src="https://seeklogo.com/images/F/facebook-messenger-logo-36376366E2-seeklogo.com.png">
+ -->
+A simple chat application with a global chat room. Users will be prompted to enter their name and all associated messages from the user will be linked to the user.
 
 <br>
 
-- [Live Site](https://react-clone-messenger.web.app/)
+## Demo
+- [Live Site](https://facebook-messenger-clone-51878.web.app/) <--- Click here to View the Deployed Live Website
 
 ![demo](https://media.giphy.com/media/h8xv465Nxi2uzJFx13/giphy.gif)
 
